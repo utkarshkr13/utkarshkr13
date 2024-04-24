@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/utkarshkr13" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshkr13?logo=twitter&style=for-the-badge" alt="utkarshkr13" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development Skills**
+- 🔭 I’m currently working on **Machine Learning Skills**
 
-- 🌱 I’m currently learning **Power Bi, Excel, SQL, CSS, Bootstrap**
+- 🌱 I’m currently learning **ML, LLM, Neural Networks**
 
 - 📫 How to reach me **utkarshwork13@gmail.com**
 
