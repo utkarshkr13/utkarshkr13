@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/Hat9mQ-QupEAAAAd/dwight-schrute-office.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/78xW.gif"  />
 
 ###
 
